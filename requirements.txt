@@ -3,4 +3,4 @@ pandas
 numpy
 joblib
 scikit-learn
-Python
+Python==3.13.15
